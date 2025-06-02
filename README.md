@@ -99,3 +99,4 @@ SOFTWARE.
 
 ## User Interface:
 ![image alt](https://github.com/SathishB-1/Customer-Churn-Prediction/blob/856d6ed05f4d9eef20403f9f8f4a7ce6f72881a9/image/interface_1.png)
+![image alt](https://github.com/SathishB-1/Customer-Churn-Prediction/blob/eaa9e56a7751051f0f37d5076d1bf3c1ea928d64/image/interface_2.png)
