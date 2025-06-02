@@ -98,4 +98,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## User Interface:
-
+![image alt](https://github.com/SathishB-1/Customer-Churn-Prediction/blob/856d6ed05f4d9eef20403f9f8f4a7ce6f72881a9/image/interface_1.png)
